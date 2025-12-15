@@ -139,6 +139,13 @@ Lo que no entiendo es como los nodos receptores son capaz de diferenciar los nod
 ¿En aloha sin particiones todas las tramas tienen también una longitud fija?
 
 #### Referencia:
-> Diapositiva 28 de "AARYS_Servicios_Avan...ados_Red_Capa_Enlace.pdf"
+> Diapositiva 34 de "AARYS_Servicios_Avan...ados_Red_Capa_Enlace.pdf"
+
+---
+#### Duda:
+¿Hay que saberse todas las siglas e los protocolos  como CDMA , CSMA, CSMA/CD ...? POrque el profesor dijo que no habia que aprenderse de memoria las cosas pero no estoy seguro de si esto entra dentro de las cosas que no hay que saberse de memoria. 
+
+
+---
 
 
