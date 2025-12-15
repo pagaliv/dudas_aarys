@@ -202,4 +202,5 @@ OSPFv3 es la versión que es compatible con ipv6 eso lo se seguro, por lo que te
 ---
 ### IGGP y EBGP
 - ¿Cuando se pregunta por BGP se refuiere a EBGP a menos que se diga lo contrario?
-
+---
+### En BGP en el examen del año pasado hay una pregunta de versiones, en concreto de cual es la vesión actual, que en las diapositivas no se menciona nada a parte de la diapostivia 11 de BGP que pone BGP-4 debo suponer que esa es la versión actual, no?
