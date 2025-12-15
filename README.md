@@ -164,14 +164,14 @@ Lo que no entiendo es como los nodos receptores son capaz de diferenciar los nod
 > Diapositiva 70 de "AARYS_Servicios_Avan...ados_Red_Capa_Enlace.pdf"
 ---
 ### Duda:
-¿Nos tenemos que saber todos los formatos de paquetes de por ejemplo OSPF, RIP y demás de memoria? Porque en el examen preguntaba el Ethernet que entiendo que es sencillo y que es basico, pero no se si se deben aprender de memoria todos y en tal caso cuales son los que nos debemos aprender de memoria basicos. 
+¿Nos tenemos que saber todos los formatos de paquetes de por ejemplo OSPF (todos su varientes como hello o LSU), RIP y demás de memoria? Porque en el examen preguntaba el Ethernet que entiendo que es sencillo y que es basico, pero no se si se deben aprender de memoria todos y en tal caso cuales son los que nos debemos aprender de memoria basicos. 
 
 #### Referencia:
 > Diapositiva 70 de "AARYS_Servicios_Avan...ados_Red_Capa_Enlace.pdf"
 ---
 ## OSPF
 ### Distancia administrativa
-Debemos aprendernos que la distancia adminsitrativa de OSPF es 110, la de RIP 120 y la ruta estatica 1, si este es el caso nos debemos saber alguna más? 
+- Debemos aprendernos que la distancia adminsitrativa de OSPF es 110, la de RIP 120 y la ruta estatica 1, si este es el caso nos debemos saber alguna más? 
 ---
 ## EXAMEN TEORICO 2024
 ### Duda:
