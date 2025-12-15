@@ -163,7 +163,16 @@ Lo que no entiendo es como los nodos receptores son capaz de diferenciar los nod
 #### Referencia:
 > Diapositiva 70 de "AARYS_Servicios_Avan...ados_Red_Capa_Enlace.pdf"
 ---
+### Duda:
+¿Nos tenemos que saber todos los formatos de paquetes de por ejemplo OSPF, RIP y demás de memoria? Porque en el examen preguntaba el Ethernet que entiendo que es sencillo y que es basico, pero no se si se deben aprender de memoria todos y en tal caso cuales son los que nos debemos aprender de memoria basicos. 
 
+#### Referencia:
+> Diapositiva 70 de "AARYS_Servicios_Avan...ados_Red_Capa_Enlace.pdf"
+---
+## OSPF
+### Distancia administrativa
+Debemos aprendernos que la distancia adminsitrativa de OSPF es 110, la de RIP 120 y la ruta estatica 1, si este es el caso nos debemos saber alguna más? 
+---
 ## EXAMEN TEORICO 2024
 ### Duda:
 En el examen se pregunta en profundidad Ethernet, en los apuntes se habla tambien de PPP y de WIFI pero no se estudian en profundidar como Ethernet, en el examen podría entrar tambén en la misma profundidad PPP y Wifi y en tal caso PPP en las diapositivas se desarolla pero wifi no lo he encontrado, así que donde esta el temario sobre wifi. 
