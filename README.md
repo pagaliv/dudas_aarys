@@ -154,6 +154,8 @@ Lo que no entiendo es como los nodos receptores son capaz de diferenciar los nod
 ---
 #### Duda:
 ¿Hay que saberse las tecnologias de ethernet de la diapo 69?
+#### Referencia:
+> Diapositiva 69 de "AARYS_Servicios_Avan...ados_Red_Capa_Enlace.pdf"
 ---
 #### Duda:
 ¿Puede entrar codificación Manchester?, lo digo porque ya lo hemos dado en otras asignaturas pero debería refrescarlo.
@@ -161,5 +163,4 @@ Lo que no entiendo es como los nodos receptores son capaz de diferenciar los nod
 #### Referencia:
 > Diapositiva 70 de "AARYS_Servicios_Avan...ados_Red_Capa_Enlace.pdf"
 
-#### Referencia:
-> Diapositiva 69 de "AARYS_Servicios_Avan...ados_Red_Capa_Enlace.pdf"
+
