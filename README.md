@@ -148,4 +148,13 @@ Lo que no entiendo es como los nodos receptores son capaz de diferenciar los nod
 
 ---
 
+---
+#### Duda:
+¿Hay que saberse datos historiocos del estilo de Origenes de las tecnologias ? Espero que no
 
+#### Referencia:
+> Diapositiva 55 de "AARYS_Servicios_Avan...ados_Red_Capa_Enlace.pdf"
+
+
+
+---
