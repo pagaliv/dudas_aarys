@@ -179,5 +179,12 @@ Lo que no entiendo es como los nodos receptores son capaz de diferenciar los nod
 ## EXAMEN TEORICO 2024
 ### Duda:
 En el examen se pregunta en profundidad Ethernet, en los apuntes se habla tambien de PPP y de WIFI pero no se estudian en profundidar como Ethernet, en el examen podría entrar tambén en la misma profundidad PPP y Wifi y en tal caso PPP en las diapositivas se desarolla pero wifi no lo he encontrado, así que donde esta el temario sobre wifi. 
-
+### Duda Pregunta Test El protocolo OSPFv3 tiene estas características. Seleccionar una o varias opciones.
+#### Las opciones de esta pregunta son:
+- Es un protocolo de estado de enlace.
+- La relación de vecindad entre los routers se configura manualmente.
+- Tiene una distancia administrativa de 10.
+- Utiliza las direcciones multicast FF02::5 y FF02::5.
+- Es compatible con IPv6.
+OSPFv3 es la versión que es compatible con ipv6 eso lo se seguro, por lo que tengo claro que es un protocolo de estado de enlace y es compatible con ipv6 y también tengo claro que no se configura manualmente y que su distancia administrativa es 110 por lo que no es 10, sin embargo referido a "Utiliza las direcciones multicast FF02::5 y FF02::5" para empezar son la misma asi que me imagino que se refiere a FF02::6 pero no aparece en ninguna parte cual es la ipv6 que usa, ya que si dice que usa la 224.0.0.5 y  224.0.0.6, por lo que igual si lo es, pero no estoy seguro y no lo pone. 
 
