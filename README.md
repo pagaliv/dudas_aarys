@@ -2,7 +2,7 @@
 
 ## EJERCICIOS
 
-### Demostración del Límite
+### Demostración del Límite y cual es la formula de aloha con particiones porque no la he encontrado
 
 #### Concepto a analizar: 
 Demostrar que el siguiente límite converge a $e^{-1}$:
