@@ -171,7 +171,10 @@ Lo que no entiendo es como los nodos receptores son capaz de diferenciar los nod
 ---
 ## OSPF
 ### Distancia administrativa
-- Debemos aprendernos que la distancia adminsitrativa de OSPF es 110, la de RIP 120 y la ruta estatica 1, si este es el caso nos debemos saber alguna más? 
+- Debemos aprendernos que la distancia adminsitrativa de OSPF es 110, la de RIP 120 y la ruta estatica 1, si este es el caso nos debemos saber alguna más?
+---
+### ¿Como funcionan las areas exactamente?
+- Poe lo que tengo entendido, para escalar se puede subdividir el protocolo OSPF en sub areas siendo la 0 la principal a la que estan conectadas todas las areas pero como funciona ospf en este formato, calcula disktra de forma simple en cada area y ¿que información se comparte con el resto de areas?
 ---
 ## EXAMEN TEORICO 2024
 ### Duda:
