@@ -169,7 +169,7 @@ Lo que no entiendo es como los nodos receptores son capaz de diferenciar los nod
 #### Referencia:
 > Diapositiva 70 de "AARYS_Servicios_Avan...ados_Red_Capa_Enlace.pdf"
 ---
-## OSPF
+## BGP
 ### Distancia administrativa
 - Debemos aprendernos que la distancia adminsitrativa de OSPF es 110, la de RIP 120 y la ruta estatica 1, si este es el caso nos debemos saber alguna más?
 ---
@@ -199,4 +199,7 @@ OSPFv3 es la versión que es compatible con ipv6 eso lo se seguro, por lo que te
 - Tiene una distancia administrativa de 10.
 
 ¿En esta solo es correcta la primera?
+---
+### IGGP y EBGP
+- ¿Cuando se pregunta por BGP se refuiere a EBGP a menos que se diga lo contrario?
 
