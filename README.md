@@ -162,7 +162,7 @@ Lo que no entiendo es como los nodos receptores son capaz de diferenciar los nod
 
 #### Referencia:
 > Diapositiva 70 de "AARYS_Servicios_Avan...ados_Red_Capa_Enlace.pdf"
-
+---
 
 ## EXAMEN TEORICO 2024
 ### Duda:
