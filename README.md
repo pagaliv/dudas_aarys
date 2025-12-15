@@ -124,3 +124,13 @@ Lo que entiendo es que el protocolo no dependerá de un nodo/dispositivo que se 
 > Diapositiva 12 de "AARYS_Servicios_Avan...ados_Red_Capa_Enlace.pdf"
 
 ---
+#### Duda:
+¿Como funciona exactamente CDMA?
+
+#### Mi interpretación (por si no me acuerdo el día que pregunte):
+Lo que no entiendo es como los nodos receptores son capaz de diferenciar los nodos que envian si estan mezclados ya que varios pueden transmitir de froma simultanea.
+
+
+#### Referencia:
+> Diapositiva 28 de "AARYS_Servicios_Avan...ados_Red_Capa_Enlace.pdf"
+
