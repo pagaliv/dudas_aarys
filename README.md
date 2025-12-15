@@ -186,5 +186,6 @@ En el examen se pregunta en profundidad Ethernet, en los apuntes se habla tambie
 - Tiene una distancia administrativa de 10.
 - Utiliza las direcciones multicast FF02::5 y FF02::5.
 - Es compatible con IPv6.
+
 OSPFv3 es la versión que es compatible con ipv6 eso lo se seguro, por lo que tengo claro que es un protocolo de estado de enlace y es compatible con ipv6 y también tengo claro que no se configura manualmente y que su distancia administrativa es 110 por lo que no es 10, sin embargo referido a "Utiliza las direcciones multicast FF02::5 y FF02::5" para empezar son la misma asi que me imagino que se refiere a FF02::6 pero no aparece en ninguna parte cual es la ipv6 que usa, ya que si dice que usa la 224.0.0.5 y  224.0.0.6, por lo que igual si lo es, pero no estoy seguro y no lo pone. 
 
