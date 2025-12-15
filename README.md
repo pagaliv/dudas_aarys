@@ -3,8 +3,7 @@
 ## EJERCICIOS
 
 ### Demostración del Límite y cual es la formula de aloha con particiones porque no la he encontrado, en la diaopostiva 34 de AARYS_Servicios_Avan...ados_Red_Capa_Enlace.pdf esta Emax(p=1/(2N-1))= [1-1/(2N-1)]2(N-1) = 0.5e pero no estoy seguro de que sea esa
-.
- Máxima eficiencia Emax= 1/2e= 0.1
+
 
 #### Concepto a analizar: 
 Demostrar que el siguiente límite converge a $e^{-1}$:
