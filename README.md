@@ -125,7 +125,7 @@ Lo que entiendo es que el protocolo no dependerá de un nodo/dispositivo que se 
 > Diapositiva 12 de "AARYS_Servicios_Avan...ados_Red_Capa_Enlace.pdf"
 
 ---
-#### Duda:
+### Duda:
 ¿Como funciona exactamente CDMA?
 
 #### Mi interpretación (por si no me acuerdo el día que pregunte):
@@ -135,32 +135,37 @@ Lo que no entiendo es como los nodos receptores son capaz de diferenciar los nod
 #### Referencia:
 > Diapositiva 28 de "AARYS_Servicios_Avan...ados_Red_Capa_Enlace.pdf"
 ---
-#### Duda:
+### Duda:
 ¿En aloha sin particiones todas las tramas tienen también una longitud fija?
 
 #### Referencia:
 > Diapositiva 34 de "AARYS_Servicios_Avan...ados_Red_Capa_Enlace.pdf"
 
 ---
-#### Duda:
+### Duda:
 ¿Hay que saberse todas las siglas e los protocolos  como CDMA , CSMA, CSMA/CD ...? POrque el profesor dijo que no habia que aprenderse de memoria las cosas pero no estoy seguro de si esto entra dentro de las cosas que no hay que saberse de memoria. 
 
 ---
-#### Duda:
+### Duda:
 ¿Hay que saberse datos historiocos del estilo de Origenes de las tecnologias ? Espero que no
 
 #### Referencia:
 > Diapositiva 55 de "AARYS_Servicios_Avan...ados_Red_Capa_Enlace.pdf"
 ---
-#### Duda:
+### Duda:
 ¿Hay que saberse las tecnologias de ethernet de la diapo 69?
 #### Referencia:
 > Diapositiva 69 de "AARYS_Servicios_Avan...ados_Red_Capa_Enlace.pdf"
 ---
-#### Duda:
+### Duda:
 ¿Puede entrar codificación Manchester?, lo digo porque ya lo hemos dado en otras asignaturas pero debería refrescarlo.
 
 #### Referencia:
 > Diapositiva 70 de "AARYS_Servicios_Avan...ados_Red_Capa_Enlace.pdf"
+
+
+## EXAMEN TEORICO 2024
+### Duda:
+En el examen se pregunta en profundidad Ethernet, en los apuntes se habla tambien de PPP y de WIFI pero no se estudian en profundidar como Ethernet, en el examen podría entrar tambén en la misma profundidad PPP y Wifi y en tal caso PPP en las diapositivas se desarolla pero wifi no lo he encontrado, así que donde esta el temario sobre wifi. 
 
 
