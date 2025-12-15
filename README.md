@@ -1,5 +1,6 @@
 #  Dudas Aarys
-
+## EJERCICIOS
+### Demostración del limite (1-1/N)^(n-1)= e^-1
 ##  TEMA: Red - Capa de Enlace
 
 ###  Primera Duda: Características de protocolo de acceso múltiple broadcast de R bps
