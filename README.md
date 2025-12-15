@@ -145,9 +145,6 @@ Lo que no entiendo es como los nodos receptores son capaz de diferenciar los nod
 #### Duda:
 ¿Hay que saberse todas las siglas e los protocolos  como CDMA , CSMA, CSMA/CD ...? POrque el profesor dijo que no habia que aprenderse de memoria las cosas pero no estoy seguro de si esto entra dentro de las cosas que no hay que saberse de memoria. 
 
-
----
-
 ---
 #### Duda:
 ¿Hay que saberse datos historiocos del estilo de Origenes de las tecnologias ? Espero que no
@@ -155,6 +152,10 @@ Lo que no entiendo es como los nodos receptores son capaz de diferenciar los nod
 #### Referencia:
 > Diapositiva 55 de "AARYS_Servicios_Avan...ados_Red_Capa_Enlace.pdf"
 
-
-
 ---
+---
+#### Duda:
+¿Hay que saberse las tecnologias de ethernet de la diapo 69?
+
+#### Referencia:
+> Diapositiva 69 de "AARYS_Servicios_Avan...ados_Red_Capa_Enlace.pdf"
